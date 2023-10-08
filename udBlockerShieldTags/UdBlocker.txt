@@ -1,3 +1,4 @@
+!udBlocker浏览器插件屏蔽网页元素标签脚本
 ! 2023-10-05 https://www.bing.com
 www.bing.com###brspole > .b_divsec.b_vList
 
