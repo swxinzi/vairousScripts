@@ -1,0 +1,153 @@
+! 2023-10-05 https://www.bing.com
+www.bing.com###brspole > .b_divsec.b_vList
+
+! 2023-10-05 https://www.google.com
+www.google.com##.minidiv.CvDJxb
+www.google.com##.adDDi.kfsfbe
+
+! 2023-10-05 https://www.bilibili.com
+www.bilibili.com##.adblock-tips
+www.bilibili.com##.header-channel-fixed
+www.bilibili.com##.slide-down.bili-header__bar
+www.bilibili.com##.expand-btn.flexible-roll-btn-inner
+www.bilibili.com##.palette-button-wrap
+www.bilibili.com##.reply-notice
+www.bilibili.com##.fixed-sidenav-storage
+www.bilibili.com##.fixed-box.reply-box
+www.bilibili.com##.mini-header.bili-header__bar
+www.bilibili.com##.part-undefined.pop-live-small-mode
+www.bilibili.com###bilibili_signIn
+
+! 2023-10-05 https://zhuanlan.zhihu.com
+zhuanlan.zhihu.com##.css-1l12z7y.is-fixed.ColumnPageHeader.Sticky
+zhuanlan.zhihu.com##.Post-SideActions
+zhuanlan.zhihu.com##.css-89d6kn.Button--plain.CornerButton.Button
+zhuanlan.zhihu.com##.css-kt4t4n
+
+! 2023-10-05 https://github.com
+github.com##.pt-6.mt-6.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-column-reverse.color-border-muted.border-top.color-fg-muted.f6.pb-2.flex-items-center.d-flex.position-relative
+
+! 2023-10-05 https://www.bilibili.com
+www.bilibili.com###biliMainHeader
+
+! 2023-10-05 https://www.youtube.com
+www.youtube.com###secondary > .ytd-watch-flexy.style-scope
+www.youtube.com###secondary
+www.youtube.com###end > .ytd-masthead.style-scope
+www.youtube.com###voice-search-button
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###copyright
+
+! 2023-10-05 https://www.bilibili.com
+www.bilibili.com##.rec-list > div.video-page-card-small > .card-box
+www.bilibili.com##.rec-footer
+
+! 2023-10-05 https://www.google.com
+www.google.com##.XDyW0e
+
+
+! 2023-10-05 https://blog.csdn.net
+blog.csdn.net##.toolbar-container
+blog.csdn.net##.clearfix.align-items-stretch.recommend-right
+blog.csdn.net##.csdn-side-toolbar
+blog.csdn.net##.more-toolbox-active.more-toolbox-new
+blog.csdn.net###blogColumnPayAdvert
+blog.csdn.net##blockquote
+blog.csdn.net##sr-rd-footer-copywrite
+blog.csdn.net##sr-blockquote
+
+! 2023-10-05 https://juejin.cn
+juejin.cn##.bottom-login-guide
+juejin.cn##.content
+juejin.cn##.vip-entry.nav-item
+juejin.cn##.main-nav-list
+juejin.cn##.global-component-box
+
+! 2023-10-05 https://zhidao.baidu.com
+
+zhidao.baidu.com##.qb-search.fixed.userbar-renew.userbar
+zhidao.baidu.com##.question-number-text-chain
+zhidao.baidu.com##.task-list-button
+zhidao.baidu.com##.jump-top-box
+zhidao.baidu.com##.wgt-footer-new
+zhidao.baidu.com##.aria-div
+zhidao.baidu.com##.wgt-asp-top.last.mod-merger-push.mod-shadow
+zhidao.baidu.com##.wgt-lvlin-form
+zhidao.baidu.com##.nav-show-control
+zhidao.baidu.com##.qb-side.grid-r
+zhidao.baidu.com##.mt-5.wgt-related
+
+! 2023-10-05 https://www.bilibili.com
+www.bilibili.com##.left-entry
+www.bilibili.com##.inner-logo
+www.bilibili.com##.channel-items__right
+www.bilibili.com##.feed-roll-btn
+www.bilibili.com##.bpx-player-ending-related
+
+! 2023-10-05 https://zh.zlibrary-china.se
+||zh.zlibrary-china.se/img/banners/scam-sites.png$image
+zh.zlibrary-china.se###messageBlock
+zh.zlibrary-china.se##.support-us-headline
+zh.zlibrary-china.se##.tablet-spread.w-3-3-show.footer-copyright
+zh.zlibrary-china.se##.w-4-hide.find-the-error
+zh.zlibrary-china.se##[href="/dmca"]
+zh.zlibrary-china.se##li.hideInDesktopApp:nth-of-type(5)
+zh.zlibrary-china.se##.related-booklists-lazy
+zh.zlibrary-ru.se###messageBlock
+zh.zlibrary-ru.se##.support-us-headline
+zh.zlibrary-ru.se##.tablet-spread.w-3-3-show.footer-copyright
+zh.zlibrary-ru.se##.w-4-hide.find-the-error
+zh.zlibrary-ru.se##[href="/dmca"]
+zh.zlibrary-ru.se##li.hideInDesktopApp:nth-of-type(5)
+zh.zlibrary-ru.se##.related-booklists-lazy
+
+! 2023-10-05 https://www.bilibili.com
+www.bilibili.com##.back-top-btn
+www.bilibili.com##.international-footer
+
+! 2023-10-06 https://www.google.com.hk
+www.google.com.hk##.XqFnDf
+www.google.com.hk##.rhstc4.Jb0Zif.IVvPP.TQc1id
+www.google.com.hk##.mNh24c
+
+! 2023-10-06 https://www.google.com
+www.google.com##.XqFnDf
+www.google.com##.mNh24c
+www.google.com##.M8OgIe
+
+! 2023-10-07 https://clm431.buzz
+clm431.buzz##.mb15.bobologo
+clm431.buzz##div.tbox:nth-of-type(1)
+
+! 2023-10-07 https://zh.zlibrary-ru.se
+||zh.zlibrary-ru.se/img/banners/scam-sites.png$image
+zh.zlibrary-ru.se##.hideInDesktopApp.searchFormLogo
+||zh.zlibrary-ru.se/img/banners/scam-sites.png$image
+zh.zlibrary-ru.se##.dDzNwS.BooklistsComments__CommentsWrapper-sc-1emz1yb-0
+
+! 2023-10-07 https://www.52pojie.cn
+www.52pojie.cn##.xg2.ptn
+
+! 2023-10-07 https://www.zhihu.com
+www.zhihu.com##.css-17rnw55.is-fixed.is-hidden.AppHeader.Sticky > div
+www.zhihu.com##.ViewAll-QuestionMainAction.QuestionMainAction
+
+! 2023-10-07 https://www.yinfans.me
+www.yinfans.me###footer
+www.yinfans.me###sidebar
+
+! 2023-10-07 https://stackoverflow.com
+stackoverflow.com##.js-ai-search-alpha-banner.bar-sm.bc-black-100.ba.sm\:wmn-initial.wmn4.wmx100.fs-fine.mb16.p16.ps-relative
+stackoverflow.com##.show-votes
+stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-100.bt.bs-sm.bg-black-025
+stackoverflow.com##.ps-relative.js-pinned-left-sidebar.left-sidebar
+stackoverflow.com##.gs4.gsx.d-flex.clear-both.form-submit
+
+! 2023-10-07 https://cloud.tencent.com
+cloud.tencent.com##.cdc-layout__side
+cloud.tencent.com##.cdc-widget-global
+cloud.tencent.com##.cdc-suspend-pill
+cloud.tencent.com##.cdc-header__bottom-nav
+
