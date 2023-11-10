@@ -152,3 +152,160 @@ cloud.tencent.com##.cdc-widget-global
 cloud.tencent.com##.cdc-suspend-pill
 cloud.tencent.com##.cdc-header__bottom-nav
 
+! 2023-10-07 https://github.com
+github.com##.overflow-hidden.js-notice-dismiss.p-3.mb-4.rounded-2.position-relative.Box
+github.com##.border-bottom.mb-5.feed-right-sidebar
+
+! 2023-10-08 https://www.v2ex.com
+www.v2ex.com###Rightbar
+
+! 2023-10-09 https://www.v2ex.com
+www.v2ex.com###Bottom > .content
+
+! 2023-10-09 https://zh.wikipedia.org
+zh.wikipedia.org###bluedeck_ding > div
+zh.wikipedia.org##.vector-sticky-pinned-container.vector-toc-landmark.mw-table-of-contents-container
+zh.wikipedia.org##.vector-sitenotice-container
+zh.wikipedia.org###footer-info-copyright
+
+! 2023-10-10 https://zh.wikipedia.org
+zh.wikipedia.org##.vector-limited-width-toggle.cdx-button--icon-only.cdx-button
+
+! 2023-10-11 https://www.jianshu.com
+www.jianshu.com##._3Pnjry
+www.jianshu.com##._2xr8G8
+www.jianshu.com##section.ouvJEz:nth-of-type(2)
+www.jianshu.com##section.ouvJEz:nth-of-type(3)
+www.jianshu.com##._13lIbp
+www.jianshu.com##._1kCBjS
+www.jianshu.com##.d0hShY
+
+! 2023-10-11 https://xclient.info
+xclient.info##.show.abptip
+
+! 2023-10-11 https://juejin.cn
+juejin.cn##.article-sidebar.sidebar
+juejin.cn##.dynamic-data-ready.article-suspended-panel
+juejin.cn##.shadow.entry-list-container.recommended-area.main-area
+juejin.cn##.top-login-guide
+
+! 2023-10-11 https://www.macv.com
+www.macv.com##.shop-box
+www.macv.com##aside
+www.macv.com###pd-left-box
+www.macv.com###float-btns
+www.macv.com###go-top
+
+! 2023-10-11 https://macosicons.com
+macosicons.com##.coral-card.mobile-hidden.card-hover.card-wrapper.sticky-banner
+macosicons.com##.Box
+
+! 2023-10-11 https://mac.macxf.com
+mac.macxf.com##.shop-box
+mac.macxf.com###pd-left-box
+||cdn.mac89.com/macxf_node/static/online-kf.png$image
+mac.macxf.com##.bar
+||cdn.mac89.com/macxf_node/static/online-kf.png$image
+mac.macxf.com##.fix-left
+mac.macxf.com##.fix-nav
+mac.macxf.com##.foot
+
+! 2023-10-11 https://www.macat.vip
+www.macat.vip###live2d
+www.macat.vip##.waifu-tips-active
+www.macat.vip###waifu
+www.macat.vip##.rollbar > .actions
+
+! 2023-10-12 https://sspai.com
+sspai.com##.related-read-box
+sspai.com##.sideTop.article-side
+sspai.com##.article-side
+
+! 2023-10-12 https://post.smzdm.com
+post.smzdm.com###feed-side
+post.smzdm.com##.J_trigger_ani.article-card
+post.smzdm.com##.z-clearfix.footer-inner
+
+! 2023-10-14 https://www.bilibili.com
+||i0.hdslb.com/bfs/sycp/creative_img/202109/e62f6d7e9a434f562afb67765b975f01.jpg$image
+
+! 2023-10-15 https://www.cnblogs.com
+www.cnblogs.com###blogTitle
+www.cnblogs.com###sideBarMain
+www.cnblogs.com###sideBar
+www.cnblogs.com###under_post_card1
+www.cnblogs.com###under_post_card2
+www.cnblogs.com###footer
+
+! 2023-10-17 https://www.zhihu.com
+www.zhihu.com##.RelatedReadings.Card
+
+! 2023-10-18 https://zh.zlibrary-china.se
+zh.zlibrary-china.se##.cBox1Danger
+
+! 2023-10-18 https://outlook.live.com
+outlook.live.com##.LBktY > .GssDD > .z0duZ
+outlook.live.com##.LBktY > .GssDD
+outlook.live.com##.Ogqyq
+
+! 2023-10-19 https://open.spotify.com
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.encore-inverted-light-set.jSvPxO.ButtonInner-sc-14ud5tc-0
+open.spotify.com###Desktop_PanelContainer_Id
+open.spotify.com##.I4p8r1UNjIGk9yv3H2Ms.encore-over-media-set
+
+! 2023-10-20 https://www.google.com.hk
+www.google.com.hk##.VjDLd.g.liYKde
+www.google.com.hk###bres > .ULSxyf > .MjjYud
+www.google.com.hk##.rhstc4.TQc1id
+
+! 2023-10-20 https://www.google.com
+www.google.com##.rhstc4.TQc1id
+www.google.com##.oIk2Cb
+www.google.com###rso > div > div.ULSxyf > .MjjYud > .vt6azd.cUnQKe
+
+! 2023-10-20 https://wallhaven.cc
+wallhaven.cc##div.startpage-box:nth-of-type(2)
+
+! 2023-10-20 https://www.macbl.com
+www.macbl.com##.clearfix.slideshow
+www.macbl.com##footer
+
+! 2023-10-21 https://zh.zlibrary-china.se
+zh.zlibrary-china.se##.share-actions
+zh.zlibrary-china.se###colorBoxes
+zh.zlibrary-china.se##.itemFullText.col-md-12 > .color1
+zh.zlibrary-china.se##.termsCloud
+zh.zlibrary-china.se##.delimiter
+
+! 2023-10-21 https://www.google.com
+www.google.com###rso > div.MjjYud > .vt6azd.cUnQKe > .Wt5Tfe
+www.google.com##.Lv2Cle
+
+! 2023-10-27 https://clm431.buzz
+clm431.buzz##.adguard-update-iframe
+
+! 2023-10-28 https://convertio.co
+convertio.co##.rate-us
+
+! 2023-10-28 https://www.google.com
+www.google.com##.N4Xssf.rhstc5.TQc1id
+
+! 2023-10-29 https://www.zhihu.com
+www.zhihu.com##.css-zr60jh
+
+! 2023-11-04 https://www.bilibili.com
+||s1.hdslb.com/bfs/static/jinkela/long/images/desktop-download-tip.png$image
+||s1.hdslb.com/bfs/static/jinkela/long/images/desktop-download-tip.png$image
+||s1.hdslb.com/bfs/static/jinkela/long/images/desktop-download-tip.png$image
+
+! 2023-11-08 https://zh.zlibrary-china.se
+||zh.zlibrary-china.se/img/banners/scam-sites-2.png$image
+
+! 2023-11-09 https://www.alltoall.net
+www.alltoall.net###text-54 > .bitWidgetFrame.ckeditorInLine.textwidget
+www.alltoall.net##.left-sidebar-wrapper.columns.two_4
+www.alltoall.net##.footer
+www.alltoall.net##.converter_desc
+www.alltoall.net##.l_subgroup
+www.alltoall.net##.l_group
+
