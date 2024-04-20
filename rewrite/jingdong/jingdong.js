@@ -7,3 +7,5 @@ if (url.includes("unctionId=basic")) {
         delete obj.JDMiaoSha;
     }
 }
+
+$done({ body: JSON.stringify(obj) });
