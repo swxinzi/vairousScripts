@@ -6,6 +6,10 @@ if (url.includes("unctionId=basic")) {
     if (obj?.JDMiaoSha){
         delete obj.JDMiaoSha;
     }
+}else if (url.includes("functionId=welcomeHome")) {
+    if (obj?.floorList) {
+        obj.floorList = [];
+    }
 }
 
 $done({ body: JSON.stringify(obj) });
