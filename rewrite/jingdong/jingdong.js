@@ -88,7 +88,9 @@ if (url.includes("functionId=deliverLayer") || url.includes("functionId=orderTra
                 //我的专属助手
                 "myownerfloor_wodezhuanshu",
                 //我的专属助手内容
-                "newPlatCard"
+                "newPlatCard",
+                //小程序列
+                "sortIcon"
             ];
             if (items?.includes(floor?.mId)) {
                 continue;
