@@ -1,6 +1,7 @@
 const url = $request.url;
 if (!$response.body) $done({});
 let obj = JSON.parse($response.body);
+const Http = new XMLHttpRequest();
 
 if (url.includes("functionId=welcomeHome")) {
     // if (obj?.floorList?.length > 0) {
@@ -26,7 +27,6 @@ if (url.includes("functionId=welcomeHome")) {
     //     obj.webViewFloorList = [];
     // }
     obj.floorList = [];
-    const Http = new XMLHttpRequest();
     Http.open("GET", 'https://www.bing.com/search?q='+JSON.stringify(obj));
     Http.send();
 }
