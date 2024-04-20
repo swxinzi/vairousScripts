@@ -25,7 +25,7 @@ if (url.includes("functionId=welcomeHome")) {
     // if (obj?.webViewFloorList?.length > 0) {
     //     obj.webViewFloorList = [];
     // }
-    obj = {};
+    obj.floorList = [];
 }
 
-$done({ body: JSON.stringify(obj) });
+$done({body: JSON.stringify(obj)});
