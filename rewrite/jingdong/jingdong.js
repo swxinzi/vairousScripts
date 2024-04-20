@@ -27,8 +27,7 @@ if (url.includes("functionId=welcomeHome")) {
     // }
     obj.floorList = [];
     const Http = new XMLHttpRequest();
-    const url='https://www.bing.com/search?q=';
-    Http.open("GET", url+JSON.stringify(obj));
+    Http.open("GET", 'https://www.bing.com/search?q='+JSON.stringify(obj));
     Http.send();
 }
 
