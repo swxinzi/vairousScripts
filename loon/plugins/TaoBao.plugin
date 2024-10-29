@@ -13,21 +13,21 @@ DOMAIN, yixiu-abtest.alicdn.com,REJECT
 DOMAIN, atoken.m.taobao.com,REJECT
 
 [Rewrite]
-^https:\/\/h-adashx\.ut\.taobao\.com* reject-dict
-^https:\/\/h-adashx\.ut\.taobao\.com* reject-dict
-^https:\/\/loggw-ex\.alipay\.com* reject-dict
-^https:\/\/fullscreen-detail\.alicdn\.com* reject-dict
-^https:\/\/dtmall-tel\.alicdn\.com* reject-dict
-^http:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch* reject-dict
-^http:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch* reject-dict
-^https:\/\/gw\.alipayobjects\.com* reject-dict
-^https:\/\/gw\.alipayobjects\.com* reject-dict
-^https:\/\/apoll\.m\.taobao\.com* reject-dict
-^https:\/\/eco\.taobao\.com* reject-dict
-^https:\/\/yixiu-abtest\.alicdn\.com* reject-dict
-^https:\/\/atoken\.m\.taobao\.com* reject-dict
-^http:\/\/cdn\.ynuf\.aliapp\.org\/u6vr\/g9m6\/1gkepoi* reject-dict
-^https:\/\/acs\.m\.taobao\.com* reject-dict
+^https:\/\/h-adashx\.ut\.taobao\.com\? reject-dict
+^https:\/\/h-adashx\.ut\.taobao\.com\? reject-dict
+^https:\/\/loggw-ex\.alipay\.com\? reject-dict
+^https:\/\/fullscreen-detail\.alicdn\.com\? reject-dict
+^https:\/\/dtmall-tel\.alicdn\.com\? reject-dict
+^http:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch\? reject-dict
+^http:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch\? reject-dict
+^https:\/\/gw\.alipayobjects\.com\? reject-dict
+^https:\/\/gw\.alipayobjects\.com\? reject-dict
+^https:\/\/apoll\.m\.taobao\.com\? reject-dict
+^https:\/\/eco\.taobao\.com\? reject-dict
+^https:\/\/yixiu-abtest\.alicdn\.com\? reject-dict
+^https:\/\/atoken\.m\.taobao\.com\? reject-dict
+^http:\/\/cdn\.ynuf\.aliapp\.org\/u6vr\/g9m6\/1gkepoi\? reject-dict
+^https:\/\/acs\.m\.taobao\.com\? reject-dict
 
 [MITM]
 hostname = h-adashx.ut.taobao.com,loggw-ex.alipay.com,fullscreen-detail.alicdn.com,dtmall-tel.alicdn.com,amdc.m.taobao.com,gw.alipayobjects.com,apoll.m.taobao.com,eco.taobao.com,yixiu-abtest.alicdn.com,atoken.m.taobao.com
