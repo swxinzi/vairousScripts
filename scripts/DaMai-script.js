@@ -4,7 +4,6 @@ let obj = JSON.parse($response.body);
 
 if (url.includes("/mtop.damai.mec.aristotle")) {
     // 首页
-    let obj = JSON.parse(bodyStr);
     if (obj?.data?.nodes?.length > 0) {
         let newNodes = obj.data.nodes;
         for (let node of newNodes){
