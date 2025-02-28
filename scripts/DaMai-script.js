@@ -27,7 +27,8 @@ if (url.includes("/mtop.damai.mec.aristotle")) {
     if (obj?.data?.layers?.length > 0?){
         let newLayerList = obj.data.layers;
         for ( let layer of newLayerList){
-            if ( layer?.layerId.includes("35e80789-a55c-4dcc-88e2-6989d3ad298f")){
+            if ( layer?.layerId.includes("35e80789-a55c-4dcc-88e2-6989d3ad298f") ||
+            layer?.layerId.includes("589bf9e4-347b-492e-b76b-00b14931369b")){
                 layer.sections = [];
             }
         }
