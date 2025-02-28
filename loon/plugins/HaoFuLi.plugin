@@ -1,0 +1,12 @@
+#!name = 好福利
+#!desc = 打死都不能看广告
+
+
+[Rewrite]
+^https:\/\/home\.pingan\.com\.cn\/m\/queryCategoryListByPag\.dox url reject
+^https:\/\/maam\.pingan\.com\.cn\/maam\/plugin\/getPluginListV5\.do url reject
+^https:\/\/home\.pingan\.com\.cn\/m\/live\/liveList\.dox url reject
+
+
+[MITM]
+hostname = home.pingan.com.cn,maam.pingan.com.cn
