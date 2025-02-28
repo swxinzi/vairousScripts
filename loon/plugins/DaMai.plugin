@@ -5,9 +5,11 @@
 [Rewrite]
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.damai\.wireless\.home\.welcome url reject-200
 ^https?:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch\?appkey=23782110 url reject
-^https:\/\/acs\.m\.taobao\.com\/gw\/mtop\.damai\.mec\.aristotle\.get url response-body-json-del https://github.com/swxinzi/vairousScripts/raw/refs/heads/main/scripts/DaMai-script.js
 
-hostname = acs.m.taobao.com
+[scripts]
+
+http-response ^https:\/\/acs\.m\.taobao\.com\/gw\/mtop\.damai\.mec\.aristotle\.get script-path = https://github.com/swxinzi/vairousScripts/raw/refs/heads/main/scripts/DaMai-script.js,requires-body = true
+
 
 [MITM]
 hostname = acs.m.taobao.com, amdc.m.taobao.com
