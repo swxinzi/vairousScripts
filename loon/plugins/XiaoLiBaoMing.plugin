@@ -2,9 +2,9 @@
 #!desc = 打死都不能看广告
 
 [Rewrite]
-^https:\/\/wxsmw\.wxs\.qq\.com\/[0-9]+\/[0-9]+\/[a-zA-Z]+download\/[a-zA-Z]+\/reserved\/ url reject
-^https:\/\/wximg\.wxs\.qq\.com\/[0-9]+\/[0-9]+\/[a-zA-Z]+download\/[a-zA-Z]+\/reserved\/ url reject
-^https:\/\/wxa\.wxs\.qq\.com\/images\/ url reject
+^http(s)?:\/\/wxsmw\.wxs\.qq\.com\/[0-9]+\/[0-9]+\/[a-zA-Z]+download\/[a-zA-Z]+\/reserved\/ url reject
+^http(s)?:\/\/wximg\.wxs\.qq\.com\/[0-9]+\/[0-9]+\/[a-zA-Z]+download\/[a-zA-Z]+\/reserved\/ url reject
+^http(s)?:\/\/wxa\.wxs\.qq\.com\/images\/ url reject
 
 
 [MITM]
