@@ -1,0 +1,9 @@
+#!name = 小立报名
+#!desc = 打死都不能看广告
+
+[Rewrite]
+^https:\/\/baoming\.lifang\.biz\/index\.php\/apik\/userLogin url reject-dict
+
+
+[MITM]
+hostname = baoming.lifang.biz
