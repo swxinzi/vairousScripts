@@ -3,7 +3,8 @@
 
 [Rewrite]
 ^https:\/\/wxsmw\.wxs\.qq\.com\/131\/20210\/snssvpdownload\/SH\/reserved\/ url reject
+^https:\/\/wximg\.wxs\.qq\.com\/131\/20204\/snssvpdownload\/SH\/reserved\/ url reject
 
 
 [MITM]
-hostname = wxsmw.wxs.qq.com
+hostname = wxsmw.wxs.qq.com,wximg.wxs.qq.com
