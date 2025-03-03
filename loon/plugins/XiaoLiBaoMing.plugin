@@ -2,8 +2,8 @@
 #!desc = 打死都不能看广告
 
 [Rewrite]
-^https:\/\/wxsmw\.wxs\.qq\.com\/[0-9]+\/[0-9]+\/ url reject
-^https:\/\/wximg\.wxs\.qq\.com\/[0-9]+\/[0-9]+\/ url reject
+^https:\/\/wxsmw\.wxs\.qq\.com\/[0-9]+\/[0-9]+\/[a-zA-Z]+download\/SH\/reserved\/ url reject
+^https:\/\/wximg\.wxs\.qq\.com\/[0-9]+\/[0-9]+\/[a-zA-Z]+download\/SH\/reserved\/ url reject
 ^https:\/\/wxa\.wxs\.qq\.com\/images\/ url reject
 
 
