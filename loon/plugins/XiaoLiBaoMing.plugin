@@ -2,8 +2,8 @@
 #!desc = 打死都不能看广告
 
 [Rewrite]
-^https:\/\/baoming\.lifang\.biz\/index\.php\/apik\/userLogin url reject-dict
+^https:\/\/wxsmw\.wxs\.qq\.com\/131\/20210\/snssvpdownload\/SH\/reserved\/ url reject
 
 
 [MITM]
-hostname = baoming.lifang.biz
+hostname = wxsmw.wxs.qq.com
