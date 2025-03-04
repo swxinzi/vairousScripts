@@ -3,7 +3,7 @@
 
 
 [Rewrite]
-^https:\/\/storage\.360buyimg\.com\/app\.m\.jd\.com\/lottie\/ url reject
+^http(s)?:\/\/storage\.360buyimg\.com\/app\.m\.jd\.com\/lottie\/ url reject
 
 [MITM]
 hostname = storage.360buyimg.com
