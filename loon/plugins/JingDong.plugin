@@ -1,0 +1,9 @@
+#!name = 京东
+#!desc = 打死都不能看广告
+
+
+[Rewrite]
+^https:\/\/storage\.360buyimg\.com\/app\.m\.jd\.com\/lottie\/ url reject
+
+[MITM]
+hostname = storage.360buyimg.com
