@@ -5,8 +5,7 @@
 ^http(s)?:\/\/wxsmw\.wxs\.qq\.com\/[0-9]+\/[0-9]+\/[a-zA-Z]+download\/[a-zA-Z]+\/reserved\/ url reject
 ^http(s)?:\/\/wximg\.wxs\.qq\.com\/[0-9]+\/[0-9]+\/[a-zA-Z]+download\/[a-zA-Z]+\/reserved\/ url reject
 ^http(s)?:\/\/wxa\.wxs\.qq\.com\/images\/ url reject
-^http(s)?:\/\/wx\.qlogo\.cn\/mmhead\/ url reject
 
 
 [MITM]
-hostname = wxsmw.wxs.qq.com,wximg.wxs.qq.com,wxa.wxs.qq.com,baoming.lifang.biz,wx.qlogo.cn
+hostname = wxsmw.wxs.qq.com,wximg.wxs.qq.com,wxa.wxs.qq.com,baoming.lifang.biz
