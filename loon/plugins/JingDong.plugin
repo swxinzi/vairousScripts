@@ -5,7 +5,7 @@
 [Rewrite]
 
 [Script]
-http-response ^http(s)?:\/\/api\.m\.jd\.com\/client\.action\?functionId=readCustomSurfaceList script-path=https://github.com/swxinzi/vairousScripts/raw/refs/heads/main/scripts/JingDong.js,requires-body=true
+http-response ^http(s)?:\/\/api\.m\.jd\.com\/client\.action\?functionId=readCustomSurfaceList script-path=https://github.com/swxinzi/vairousScripts/raw/refs/heads/main/scripts/JingDong-ads.js,requires-body=true
 
 
 
