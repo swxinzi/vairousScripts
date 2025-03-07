@@ -3,6 +3,7 @@
 
 
 [Rewrite]
+^http(s)?:\/\/api\.m\.jd\.com\/client\.action\?functionId=searchBoxWord url reject-dict
 
 [Script]
 http-response ^http(s)?:\/\/api\.m\.jd\.com\/client\.action\?functionId=readCustomSurfaceList script-path=https://github.com/swxinzi/vairousScripts/raw/refs/heads/main/scripts/JingDong-ads.js,requires-body=true
