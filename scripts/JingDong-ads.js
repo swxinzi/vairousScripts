@@ -6,7 +6,7 @@ if (url.includes("functionId=readCustomSurfaceList")) {
     // 底部导航栏   黑暗模式
     if (obj?.result?.modeMap?.dark?.navigationAll.length > 0) {
         let newNavigationList = [];
-        let navigationList = obj.data.result.modeMap.dark.navigationAll;
+        let navigationList = obj.result.modeMap.dark.navigationAll;
         for (let item of navigationList){
             if (item.functionId != 'index' || item.functionId != 'cart' || item.functionId != 'home') {
                 continue;
@@ -20,7 +20,7 @@ if (url.includes("functionId=readCustomSurfaceList")) {
     // 底部导航栏   普通模式
     if (obj?.result?.modeMap?.normal?.navigationAll.length > 0) {
         let newNavigationList = [];
-        let navigationList = obj.data.result.modeMap.normal.navigationAll;
+        let navigationList = obj.result.modeMap.normal.navigationAll;
         for (let item of navigationList){
             if (item.functionId != 'index' || item.functionId != 'cart' || item.functionId != 'home') {
                 continue;
