@@ -6,6 +6,7 @@
 
 [Script]
 http-response ^https:\/\/web\.meituan\.com\/api\/miniprogram\/index\/aggregate script-path=https://github.com/swxinzi/vairousScripts/raw/refs/heads/main/scripts/MeiTuan-script.js,requires-body=true
+http-response ^https:\/\/web\.meituan\.com\/api\/miniprogram\/tabbar\/all\/query script-path=https://github.com/swxinzi/vairousScripts/raw/refs/heads/main/scripts/MeiTuan-script.js,requires-body=true
 
 [MITM]
 hostname = web.meituan.com

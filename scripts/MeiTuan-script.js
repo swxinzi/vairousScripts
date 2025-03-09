@@ -26,6 +26,24 @@ if (url.includes("/miniprogram/index/aggregate")) {
     obj.data.bizArea = {};
 }
 
+// 底部导航栏
+if (url.includes("/miniprogram/tabbar/all/query ")) {
+    if (obj?.data?.length > 0) {
+        let oldList = obj.data;
+        let newList = [];
+        for (let item of oldList){
+            if (item.exchangeResourceId == '247427'
+                || item.exchangeResourceId == '247428'
+                || item.exchangeResourceId == '247430') {
+                newList.push(item);
+            }
+        }
+        obj.data = newList;
+    }
+}
 
-$done({ body: JSON.stringify(obj) });
+
+    $done({body: JSON.stringify(obj)});
+
+
 
