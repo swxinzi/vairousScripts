@@ -32,9 +32,9 @@ if (url.includes("/miniprogram/tabbar/all/query ")) {
         let oldList = obj.data;
         let newList = [];
         for (let item of oldList){
-            if (item.exchangeResourceId == '247427'
-                || item.exchangeResourceId == '247428'
-                || item.exchangeResourceId == '247430') {
+            if (item.path.includes('mt/mt')
+                || item.path.includes('tabs/index')
+                || item.path.includes('mine/mine')) {
                 newList.push(item);
             }
         }
