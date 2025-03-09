@@ -1,0 +1,12 @@
+#!name = 美团
+#!desc = 打死都不能看广告
+
+
+[Rewrite]
+
+[Script]
+http-response ^https:\/\/web\.meituan\.com\/api\/miniprogram\/index\/aggregate script-path=https://github.com/swxinzi/vairousScripts/raw/refs/heads/main/scripts/MeiTuan-script.js,requires-body=true
+
+[MITM]
+hostname = web.meituan.com
+
