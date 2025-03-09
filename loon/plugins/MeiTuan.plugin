@@ -3,9 +3,10 @@
 
 
 [Rewrite]
+^https:\/\/wx\.waimai\.meituan\.com\/weapp\/v11\/user\/functions\/list url reject-dict
+
 
 [Script]
-^https:\/\/wx\.waimai\.meituan\.com\/weapp\/v11\/user\/functions\/list url reject-dict
 
 
 [MITM]
