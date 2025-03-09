@@ -4,7 +4,7 @@ let obj = JSON.parse($response.body);
 
 
 // 底部导航栏
-if (url.includes("/user/functions/list ")) {
+if (url.includes("/user/functions/list")) {
     if (obj?.data?.category_list?.length > 0) {
         let oldList = obj.data.category_list;
         let newList = [];
