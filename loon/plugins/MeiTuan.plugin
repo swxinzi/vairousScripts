@@ -5,7 +5,8 @@
 [Rewrite]
 
 [Script]
-http-response ^https:\/\/wx\.waimai\.meituan\.com\/weapp\/v11\/user\/functions\/list script-path=https://github.com/swxinzi/vairousScripts/raw/refs/heads/main/scripts/MeiTuan-script.js,requires-body=true
+^https:\/\/wx\.waimai\.meituan\.com\/weapp\/v11\/user\/functions\/list url reject-dict
+
 
 [MITM]
 hostname = web.meituan.com,wx.waimai.meituan.com
